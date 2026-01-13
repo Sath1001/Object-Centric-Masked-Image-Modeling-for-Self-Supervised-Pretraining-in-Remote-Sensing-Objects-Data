@@ -1,0 +1,2 @@
+# Object-Centric-Masked-Image-Modeling-for-Self-Supervised-Pretraining-in-Remote-Sensing-Objects-Data
+Marine oil spill detection using SAR images is challenging due to noise and low contrast. This work proposes a distribution-based segmentation method by modeling SAR image statistics, formulating an energy functional, and classifying spill and non-spill regions to improve detection accuracy and efficiency.
